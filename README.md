@@ -1,1 +1,1 @@
-# twtrubiks-django
+# https://github.com/twtrubiks/django-tutorial
